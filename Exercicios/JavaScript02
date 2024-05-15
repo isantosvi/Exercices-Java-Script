@@ -1,0 +1,4 @@
+var valor1 = 10;
+var valor2 = 15;
+
+var subtracao = valor1 - valor2;
